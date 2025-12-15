@@ -1,0 +1,5 @@
+{
+  "name": "NeuroRoute Simulator",
+  "description": "A research-grade dashboard visually comparing traditional round-robin routing against brain-inspired neuromorphic spike-timing routing.",
+  "requestFramePermissions": []
+}
